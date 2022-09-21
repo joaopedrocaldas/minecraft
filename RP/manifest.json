@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Caldas"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.3.3"
+			],
+			"dash": [
+				"0.9.29"
+			]
+		}
+	},
+	"header": {
+		"name": "teste",
+		"description": "",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "e4e04163-e512-480b-9b7e-e679f7d9565b",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "99f61732-b95b-4f7d-9a28-785eb2d58ea9",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
